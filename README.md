@@ -21,7 +21,8 @@ AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets y
 
 ![image](https://user-images.githubusercontent.com/17021017/147494006-da1b51c4-eaa4-4ba6-b429-a21c61979082.png)
 
-# 3: clone the code from https://github.com/alexeygrigorev/mlbookcamp-code.git to your Cloud9 IDE.
+# 3: 
+clone the code from https://github.com/alexeygrigorev/mlbookcamp-code.git to your Cloud9 IDE.
 
 $ git clone https://github.com/alexeygrigorev/mlbookcamp-code.git
 
